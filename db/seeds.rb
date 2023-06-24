@@ -6,3 +6,31 @@ Bird.create!(name: 'Common Starling', species: 'Sturnus Vulgaris')
 Bird.create!(name: 'Mourning Dove', species: 'Zenaida Macroura')
 
 puts '✅ Done seeding!'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
